@@ -1,0 +1,17 @@
+{
+  "name": "PAPAN TULIS DIGITAL",
+  "short_name": "Papan Tulis",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e4f3ea",
+  "theme_color": "#109c6b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://files.catbox.moe/2ovfx4.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
